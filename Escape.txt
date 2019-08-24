@@ -1,0 +1,774 @@
+H..
+He..l..o..
+Hello? 
+Is anybody here? 
+Did you get my message?
+->choice
+->1
+A: Who are you?
+B: Yes I can hear you.
+->choiceInput
+
+->Path
+->1
+->A
+Finally a connection!!
+Yeah...right sorry I didn't properly introduce myself yet.
+Greetings stranger, my name is Luke.
+This might be weird and I know we don't know each other but... I really need your help out of this.
+->choice
+->2
+A: Okay..?
+B: What do you need help with?
+->choiceInput
+
+->Path
+->2
+->A
+So somehow...I ended up waking up in this locked room and I can't remember a single thing.
+The only thing that I found is this device that connects to you and a note written in rush saying:
+WHO AM I?
+Ironically it reflects me. I can't remember who I am, what I even look like, or where I am from.
+I can only remember my name.
+Hmm.. there's one button here on the device I wonder what it is. Let's see what happens when I press it.
+
+*You received a picture of Luke*
+You see a brunette man in his early 20s with dark, blue eyes, a freckled face, fair skin, and one undeniably unique feature:
+an X scar on his right cheek.
+
+Huh, nothing happend. Oh well.. there's this plaid shirt on the floor and a computer on the desk. What should I check first?
+->choice
+->3
+A: Check the shirt.
+B: Check the computer.
+->choiceInput
+
+->Path
+->3
+->A
+The shirt is filled with scratches, tears, and oh wow... it has an incredibly ghastly smell.
+and hm..? It has.. a..wha..
+blood..stains?
+what the..
+I hope it's just an animal's... or from a wound..
+Oh something fell off.
+Hm... its a paper with the message
+"The password is your question."
+
+Huh... weird.
+Guess I will go check out the computer then.
+Hm.. it needs a password input...
+And it appears to be in cryptogram..
+->cryptogram
+Who am I?
+->cryptogramEnd
+Yes! It's correct! 
+Oh? It appears to be a video footage.
+Oh
+Oh my God
+What the...
+It's.. it's a video of a man... killing another woman.. it appears to be right in this room.. and now.. God..
+he's dragging the corpse to the bathroom...
+It's the door that on the right that I haven't opened yet...
+He's looking at himself in the mirror.
+Wait he's turning his face.
+I..
+I could..
+I could see his face..
+What a ghostly and devilish smile he has... 
+Among those freckled cheeks, dark brown hair, and mysterious dark blue eyes, his X mark on his cheek is the most prominent.
+Isn't it just..horrible..?
+Whoever did this?
+Hey I think I can hear police sirens.
+What should I do?
+->choice
+->4
+A: Wait for the police.
+B: Open the bathroom door.
+->choiceInput
+
+->Path
+->4
+->A
+Right.. I should wait... I didn't do anything wrong did I?
+The police are barging in and here they are! Help!
+I can now be rescued! 
+
+Wait what? Huh? NO! Why are you arresting me?! HELP!!!! 
+HELP!!!
+
+Good ending. You helped arrested Luke.
+->END
+
+->Path
+->4
+->B
+Okay.. I'm going in.
+Oh.
+Oh god the corpse is there..
+and huh?
+Oh
+oh...
+the mirror..
+now I REMEMBER..
+The man in the video is me after all huh.
+So this is who I am.
+
+Well, thanks for helping me remember. I hope we do meet in real life though, but when we do, just be careful for a *nice* surprise.
+Oh haha now the police are here.
+Well, it's time for me to escape now.
+Goodbye.
+See you
+SOON
+
+Bad Ending. You helped Luke escape.
+->END
+
+->Path
+->3
+->B
+Hmm.. the computer is locked with a passcode.. I just can't get in..
+Guess I'll check the shirt then.
+
+The shirt is filled with scratches, tears, and oh wow... it has an incredibly ghastly smell.
+and hm..? It has.. a..wha..
+blood..stains?
+what the..
+I hope it's just an animal's... or from a wound..
+Oh something fell off.
+Hm... its a paper with the message
+"The password is your question."
+
+Oh! I think I have an idea of what the passcode to the computer is!
+I'll get back to the computer.
+->cryptogram
+Who am I?
+->cryptogramEnd
+Yes! It's correct! 
+Oh? It appears to be a video footage.
+Oh
+Oh my God
+What the...
+It's.. it's a video of a man... killing another woman.. it appears to be right in this room.. and now.. God..
+he's dragging the corpse to the bathroom...
+It's the door that on the right that I haven't opened yet...
+He's looking at himself in the mirror.
+Wait he's turning his face.
+I..
+I could..
+I could see his face..
+What a ghostly and devilish smile he has... 
+Among those freckled cheeks, dark brown hair, and mysterious dark blue eyes, his X mark on his cheek is the most prominent.
+Isn't it just..horrible..?
+Whoever did this?
+Hey I think I can hear police sirens.
+What should I do?
+->choice
+->4
+A: Wait for the police.
+B: Open the bathroom door.
+->choiceInput
+
+->Path
+->4
+->A
+Right.. I should wait... I didn't do anything wrong did I?
+The police are barging in and here they are! Help!
+I can now be rescued! 
+
+Wait what? Huh? NO! Why are you arresting me?! HELP!!!! 
+HELP!!!
+
+Good ending. You helped arrested Luke.
+->END
+
+->Path
+->4
+->B
+Okay.. I'm going in.
+Oh.
+Oh god the corpse is there..
+and huh?
+Oh
+oh...
+the mirror..
+now I REMEMBER..
+The man in the video is me after all huh.
+So this is who I am.
+
+Well, thanks for helping me remember. I hope we do meet in real life though, but when we do, just be careful for a *nice* surprise.
+Oh haha now the police are here.
+Well, it's time for me to escape now.
+Goodbye.
+See you
+SOON
+
+Bad Ending. You helped Luke escape.
+->END
+
+->Path
+->2
+->B
+So somehow...I ended up waking up in this locked room and I can't remember a single thing.
+The only thing that I found is this device that connects to you and a note written in rush saying:
+WHO AM I?
+Ironically it reflects me. I can't remember who I am, what I even look like, or where I am from.
+I can only remember my name.
+Hmm.. there's one button here on the device I wonder what it is. Let's see what happens when I press it.
+
+*You received a picture of Luke*
+You see a brunette man in his early 20s with dark, blue eyes, a freckled face, fair skin, and one undeniably unique feature:
+an X scar on his right cheek.
+
+Huh, nothing happend. Oh well.. there's this plaid shirt on the floor and a computer on the desk. What should I check first?
+->choice
+->3
+A: Check the shirt.
+B: Check the computer.
+->choiceInput
+
+->Path
+->3
+->A
+The shirt is filled with scratches, tears, and oh wow... it has an incredibly ghastly smell.
+and hm..? It has.. a..wha..
+blood..stains?
+what the..
+I hope it's just an animal's... or from a wound..
+Oh something fell off.
+Hm... its a paper with the message
+"The password is your question."
+
+Huh... weird.
+Guess I will go check out the computer then.
+Hm.. it needs a password input...
+And it appears to be in cryptogram..
+->cryptogram
+Who am I?
+->cryptogramEnd
+Yes! It's correct! 
+Oh? It appears to be a video footage.
+Oh
+Oh my God
+What the...
+It's.. it's a video of a man... killing another woman.. it appears to be right in this room.. and now.. God..
+he's dragging the corpse to the bathroom...
+It's the door that on the right that I haven't opened yet...
+He's looking at himself in the mirror.
+Wait he's turning his face.
+I..
+I could..
+I could see his face..
+What a ghostly and devilish smile he has... 
+Among those freckled cheeks, dark brown hair, and mysterious dark blue eyes, his X mark on his cheek is the most prominent.
+Isn't it just..horrible..?
+Whoever did this?
+Hey I think I can hear police sirens.
+What should I do?
+->choice
+->4
+A: Wait for the police.
+B: Open the bathroom door.
+->choiceInput
+
+->Path
+->4
+->A
+Right.. I should wait... I didn't do anything wrong did I?
+The police are barging in and here they are! Help!
+I can now be rescued! 
+
+Wait what? Huh? NO! Why are you arresting me?! HELP!!!! 
+HELP!!!
+
+Good ending. You helped arrested Luke.
+->END
+
+->Path
+->4
+->B
+Okay.. I'm going in.
+Oh.
+Oh god the corpse is there..
+and huh?
+Oh
+oh...
+the mirror..
+now I REMEMBER..
+The man in the video is me after all huh.
+So this is who I am.
+
+Well, thanks for helping me remember. I hope we do meet in real life though, but when we do, just be careful for a *nice* surprise.
+Oh haha now the police are here.
+Well, it's time for me to escape now.
+Goodbye.
+See you
+SOON
+
+Bad Ending. You helped Luke escape.
+->END
+
+->Path
+->3
+->B
+Hmm.. the computer is locked with a passcode.. I just can't get in..
+Guess I'll check the shirt then.
+
+The shirt is filled with scratches, tears, and oh wow... it has an incredibly ghastly smell.
+and hm..? It has.. a..wha..
+blood..stains?
+what the..
+I hope it's just an animal's... or from a wound..
+Oh something fell off.
+Hm... its a paper with the message
+"The password is your question."
+
+Oh! I think I have an idea of what the passcode to the computer is!
+I'll get back to the computer.
+->cryptogram
+Who am I?
+->cryptogramEnd
+Yes! It's correct! 
+Oh? It appears to be a video footage.
+Oh
+Oh my God
+What the...
+It's.. it's a video of a man... killing another woman.. it appears to be right in this room.. and now.. God..
+he's dragging the corpse to the bathroom...
+It's the door that on the right that I haven't opened yet...
+He's looking at himself in the mirror.
+Wait he's turning his face.
+I..
+I could..
+I could see his face..
+What a ghostly and devilish smile he has... 
+Among those freckled cheeks, dark brown hair, and mysterious dark blue eyes, his X mark on his cheek is the most prominent.
+Isn't it just..horrible..?
+Whoever did this?
+Hey I think I can hear police sirens.
+What should I do?
+->choice
+->4
+A: Wait for the police.
+B: Open the bathroom door.
+->choiceInput
+
+->Path
+->4
+->A
+Right.. I should wait... I didn't do anything wrong did I?
+The police are barging in and here they are! Help!
+I can now be rescued! 
+
+Wait what? Huh? NO! Why are you arresting me?! HELP!!!! 
+HELP!!!
+
+Good ending. You helped arrested Luke.
+->END
+
+->Path
+->4
+->B
+Okay.. I'm going in.
+Oh.
+Oh god the corpse is there..
+and huh?
+Oh
+oh...
+the mirror..
+now I REMEMBER..
+The man in the video is me after all huh.
+So this is who I am.
+
+Well, thanks for helping me remember. I hope we do meet in real life though, but when we do, just be careful for a *nice* surprise.
+Oh haha now the police are here.
+Well, it's time for me to escape now.
+Goodbye.
+See you
+SOON
+
+Bad Ending. You helped Luke escape.
+->END
+
+
+->Path
+->1
+->B
+OMG Really??
+YES!! A connection!!
+You might be wondering who on earth is this.
+Greetings stranger, my name is Luke.
+This might be weird and I know we don't know each other but... I really need your help out of this.
+->choice
+->2
+A: Okay..?
+B: What do you need help with?
+->choiceInput
+
+->Path
+->2
+->A
+So somehow...I ended up waking up in this locked room and I can't remember a single thing.
+The only thing that I found is this device that connects to you and a note written in rush saying:
+WHO AM I?
+Ironically it reflects me. I can't remember who I am, what I even look like, or where I am from.
+I can only remember my name.
+Hmm.. there's one button here on the device I wonder what it is. Let's see what happens when I press it.
+
+*You received a picture of Luke*
+You see a brunette man in his early 20s with dark, blue eyes, a freckled face, fair skin, and one undeniably unique feature:
+an X scar on his right cheek.
+
+Huh, nothing happend. Oh well.. there's this plaid shirt on the floor and a computer on the desk. What should I check first?
+->choice
+->3
+A: Check the shirt.
+B: Check the computer.
+->choiceInput
+
+->Path
+->3
+->A
+The shirt is filled with scratches, tears, and oh wow... it has an incredibly ghastly smell.
+and hm..? It has.. a..wha..
+blood..stains?
+what the..
+I hope it's just an animal's... or from a wound..
+Oh something fell off.
+Hm... its a paper with the message
+"The password is your question."
+
+Huh... weird.
+Guess I will go check out the computer then.
+Hm.. it needs a password input...
+And it appears to be in cryptogram..
+->cryptogram
+Who am I?
+->cryptogramEnd
+Yes! It's correct! 
+Oh? It appears to be a video footage.
+Oh
+Oh my God
+What the...
+It's.. it's a video of a man... killing another woman.. it appears to be right in this room.. and now.. God..
+he's dragging the corpse to the bathroom...
+It's the door that on the right that I haven't opened yet...
+He's looking at himself in the mirror.
+Wait he's turning his face.
+I..
+I could..
+I could see his face..
+What a ghostly and devilish smile he has... 
+Among those freckled cheeks, dark brown hair, and mysterious dark blue eyes, his X mark on his cheek is the most prominent.
+Isn't it just..horrible..?
+Whoever did this?
+Hey I think I can hear police sirens.
+What should I do?
+->choice
+->4
+A: Wait for the police.
+B: Open the bathroom door.
+->choiceInput
+
+->Path
+->4
+->A
+Right.. I should wait... I didn't do anything wrong did I?
+The police are barging in and here they are! Help!
+I can now be rescued! 
+
+Wait what? Huh? NO! Why are you arresting me?! HELP!!!! 
+HELP!!!
+
+Good ending. You helped arrested Luke.
+->END
+
+->Path
+->4
+->B
+Okay.. I'm going in.
+Oh.
+Oh god the corpse is there..
+and huh?
+Oh
+oh...
+the mirror..
+now I REMEMBER..
+The man in the video is me after all huh.
+So this is who I am.
+
+Well, thanks for helping me remember. I hope we do meet in real life though, but when we do, just be careful for a *nice* surprise.
+Oh haha now the police are here.
+Well, it's time for me to escape now.
+Goodbye.
+See you
+SOON
+
+Bad Ending. You helped Luke escape.
+->END
+
+->Path
+->3
+->B
+Hmm.. the computer is locked with a passcode.. I just can't get in..
+Guess I'll check the shirt then.
+
+The shirt is filled with scratches, tears, and oh wow... it has an incredibly ghastly smell.
+and hm..? It has.. a..wha..
+blood..stains?
+what the..
+I hope it's just an animal's... or from a wound..
+Oh something fell off.
+Hm... its a paper with the message
+"The password is your question."
+
+Oh! I think I have an idea of what the passcode to the computer is!
+I'll get back to the computer.
+->cryptogram
+Who am I?
+->cryptogramEnd
+Yes! It's correct! 
+Oh? It appears to be a video footage.
+Oh
+Oh my God
+What the...
+It's.. it's a video of a man... killing another woman.. it appears to be right in this room.. and now.. God..
+he's dragging the corpse to the bathroom...
+It's the door that on the right that I haven't opened yet...
+He's looking at himself in the mirror.
+Wait he's turning his face.
+I..
+I could..
+I could see his face..
+What a ghostly and devilish smile he has... 
+Among those freckled cheeks, dark brown hair, and mysterious dark blue eyes, his X mark on his cheek is the most prominent.
+Isn't it just..horrible..?
+Whoever did this?
+Hey I think I can hear police sirens.
+What should I do?
+->choice
+->4
+A: Wait for the police.
+B: Open the bathroom door.
+->choiceInput
+
+->Path
+->4
+->A
+Right.. I should wait... I didn't do anything wrong did I?
+The police are barging in and here they are! Help!
+I can now be rescued! 
+
+Wait what? Huh? NO! Why are you arresting me?! HELP!!!! 
+HELP!!!
+
+Good ending. You helped arrested Luke.
+->END
+
+->Path
+->4
+->B
+Okay.. I'm going in.
+Oh.
+Oh god the corpse is there..
+and huh?
+Oh
+oh...
+the mirror..
+now I REMEMBER..
+The man in the video is me after all huh.
+So this is who I am.
+
+Well, thanks for helping me remember. I hope we do meet in real life though, but when we do, just be careful for a *nice* surprise.
+Oh haha now the police are here.
+Well, it's time for me to escape now.
+Goodbye.
+See you
+SOON
+
+Bad Ending. You helped Luke escape.
+->END
+
+->Path
+->2
+->B
+So somehow...I ended up waking up in this locked room and I can't remember a single thing.
+The only thing that I found is this device that connects to you and a note written in rush saying:
+WHO AM I?
+Ironically it reflects me. I can't remember who I am, what I even look like, or where I am from.
+I can only remember my name.
+Hmm.. there's one button here on the device I wonder what it is. Let's see what happens when I press it.
+
+*You received a picture of Luke*
+You see a brunette man in his early 20s with dark, blue eyes, a freckled face, fair skin, and one undeniably unique feature:
+an X scar on his right cheek.
+
+Huh, nothing happend. Oh well.. there's this plaid shirt on the floor and a computer on the desk. What should I check first?
+->choice
+->3
+A: Check the shirt.
+B: Check the computer.
+->choiceInput
+
+->Path
+->3
+->A
+The shirt is filled with scratches, tears, and oh wow... it has an incredibly ghastly smell.
+and hm..? It has.. a..wha..
+blood..stains?
+what the..
+I hope it's just an animal's... or from a wound..
+Oh something fell off.
+Hm... its a paper with the message
+"The password is your question."
+
+Huh... weird.
+Guess I will go check out the computer then.
+Hm.. it needs a password input...
+And it appears to be in cryptogram..
+->cryptogram
+Who am I?
+->cryptogramEnd
+Yes! It's correct! 
+Oh? It appears to be a video footage.
+Oh
+Oh my God
+What the...
+It's.. it's a video of a man... killing another woman.. it appears to be right in this room.. and now.. God..
+he's dragging the corpse to the bathroom...
+It's the door that on the right that I haven't opened yet...
+He's looking at himself in the mirror.
+Wait he's turning his face.
+I..
+I could..
+I could see his face..
+What a ghostly and devilish smile he has... 
+Among those freckled cheeks, dark brown hair, and mysterious dark blue eyes, his X mark on his cheek is the most prominent.
+Isn't it just..horrible..?
+Whoever did this?
+Hey I think I can hear police sirens.
+What should I do?
+->choice
+->4
+A: Wait for the police.
+B: Open the bathroom door.
+->choiceInput
+
+->Path
+->4
+->A
+Right.. I should wait... I didn't do anything wrong did I?
+The police are barging in and here they are! Help!
+I can now be rescued! 
+
+Wait what? Huh? NO! Why are you arresting me?! HELP!!!! 
+HELP!!!
+
+Good ending. You helped arrested Luke.
+->END
+
+->Path
+->4
+->B
+Okay.. I'm going in.
+Oh.
+Oh god the corpse is there..
+and huh?
+Oh
+oh...
+the mirror..
+now I REMEMBER..
+The man in the video is me after all huh.
+So this is who I am.
+
+Well, thanks for helping me remember. I hope we do meet in real life though, but when we do, just be careful for a *nice* surprise.
+Oh haha now the police are here.
+Well, it's time for me to escape now.
+Goodbye.
+See you
+SOON
+
+Bad Ending. You helped Luke escape.
+->END
+
+->Path
+->3
+->B
+Hmm.. the computer is locked with a passcode.. I just can't get in..
+Guess I'll check the shirt then.
+
+The shirt is filled with scratches, tears, and oh wow... it has an incredibly ghastly smell.
+and hm..? It has.. a..wha..
+blood..stains?
+what the..
+I hope it's just an animal's... or from a wound..
+Oh something fell off.
+Hm... its a paper with the message
+"The password is your question."
+
+Oh! I think I have an idea of what the passcode to the computer is!
+I'll get back to the computer.
+->cryptogram
+Who am I?
+->cryptogramEnd
+Yes! It's correct! 
+Oh? It appears to be a video footage.
+Oh
+Oh my God
+What the...
+It's.. it's a video of a man... killing another woman.. it appears to be right in this room.. and now.. God..
+he's dragging the corpse to the bathroom...
+It's the door that on the right that I haven't opened yet...
+He's looking at himself in the mirror.
+Wait he's turning his face.
+I..
+I could..
+I could see his face..
+What a ghostly and devilish smile he has... 
+Among those freckled cheeks, dark brown hair, and mysterious dark blue eyes, his X mark on his cheek is the most prominent.
+Isn't it just..horrible..?
+Whoever did this?
+Hey I think I can hear police sirens.
+What should I do?
+->choice
+->4
+A: Wait for the police.
+B: Open the bathroom door.
+->choiceInput
+
+->Path
+->4
+->A
+Right.. I should wait... I didn't do anything wrong did I?
+The police are barging in and here they are! Help!
+I can now be rescued! 
+
+Wait what? Huh? NO! Why are you arresting me?! HELP!!!! 
+HELP!!!
+
+Good ending. You helped arrested Luke.
+->END
+
+->Path
+->4
+->B
+Okay.. I'm going in.
+Oh.
+Oh god the corpse is there..
+and huh?
+Oh
+oh...
+the mirror..
+now I REMEMBER..
+The man in the video is me after all huh.
+So this is who I am.
+
+Well, thanks for helping me remember. I hope we do meet in real life though, but when we do, just be careful for a *nice* surprise.
+Oh haha now the police are here.
+Well, it's time for me to escape now.
+Goodbye.
+See you
+SOON
+
+Bad Ending. You helped Luke escape.
+->END
